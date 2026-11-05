@@ -9,7 +9,7 @@ def truth_table_biconditional():
                 print(p, q, r, p_and_q, result, sep="\t")
 
 
-# Extra credit: p IMPLIES (q OR r)
+ 
 def truth_table_implication():
     print("p", "q", "r", "q OR r", "Result", sep="\t")
 
